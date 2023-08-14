@@ -1,5 +1,5 @@
 # Group-Project-Description-and-Outline
-Our group project description and outline
+Welcome to our Code Fellows 201 Final Group Project Description and Outline!
 
 
 # Group Project Description and Ouline:
