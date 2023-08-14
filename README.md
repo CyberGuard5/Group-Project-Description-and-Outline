@@ -4,7 +4,13 @@ Our group project description and outline
 
 # Group Project Description and Ouline:
  
-  > Link: https://github.com/codefellows/seattle-ops-201d9/blob/main/final-projects/project-guidelines.md#ops-201-final-project-requirements 
+  > Link: https://github.com/codefellows/seattle-ops-201d9/blob/main/final-projects/project-guidelines.md#ops-201-final-project-requirements
+
+
+# Group Project Management Tool:
+
+Trello
+>Link: https://trello.com/b/UZLAgTpW/cyberguard5 
 
 
 # Group Project Members:
