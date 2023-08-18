@@ -45,3 +45,7 @@ Amleset Tesfamariam
 > GitHub profile: https://github.com/AmlesetT
 > LinkedIn profile: https://www.linkedin.com/in/amleset-t-9a3239231/
 
+
+# Group Project Topology Visual:
+> <img width="407" alt="Screen Shot 2023-08-17 at 5 46 58 PM" src="https://github.com/CyberGuard5/Group-Project-Description-and-Outline/assets/139098353/a3c86c5d-9d82-417b-afda-7fd740280860">
+
