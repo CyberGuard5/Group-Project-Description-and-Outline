@@ -20,7 +20,7 @@ Trello
 
 # Group Project Presentation Recording:
 
->Link:
+>Link: https://zoom.us/rec/play/FyrC0UAdDJdtGqSucN0kWm8QNDeGk4zR7BHfqY9YpEeRms1uuwm0yOPcrKIfouGX34WxbZ-fjcsDAX0B.cbcxM2CWtFwUSCzO?canPlayFromShare=true&from=share_recording_detail&startTime=1692396904000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FbQsn__GRiDUOUzjefX_5CFSGhA26NH3scobJicSXL1CqHFL9FhS3YjN9jwMuB5Mt.Zc2bdr4zril_OxH2%3FstartTime%3D1692396904000 
 
 
 # Group Project Members:
