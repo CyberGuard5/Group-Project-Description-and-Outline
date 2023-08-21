@@ -15,6 +15,7 @@ Trello
 
 # Group Project Presentation Document:
 
+Google Docs
 >Link: https://docs.google.com/presentation/d/1ku_K3HqBrldM-k9JS4uEeQxfKNuuULTUwA2adRSbzks/edit#slide=id.g2accd1c413_3_31 
 
 
